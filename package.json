@@ -1,0 +1,23 @@
+{
+  "name": "redux-toolkit-and-example-project-setup",
+  "version": "1.0.0",
+  "description": "\"# redux-toolkit-and-example-project-setup\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siydulislam/redux-toolkit-and-example-project-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siydulislam/redux-toolkit-and-example-project-setup/issues"
+  },
+  "homepage": "https://github.com/Siydulislam/redux-toolkit-and-example-project-setup#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
