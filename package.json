@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Siydulislam/redux-toolkit-and-example-project-setup#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
+    "immer": "^9.0.19",
     "redux": "^4.2.1"
   }
 }
